@@ -1,0 +1,6 @@
+flask
+gunicorn
+google-generativeai
+markdown
+werkzeug
+python-dotenv
